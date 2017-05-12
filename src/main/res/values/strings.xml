@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PayPal SDK Example</string>
+    <string name="amount">0.25</string>
+    <string name="currency">USD</string>
+    <string name="config_client_id">AZ9_icIq-bwLd224wU1ISbaD-RNYwRpStYMIc8swkRtI2hv2NtIDo5rnp-pEBUxZ8H0_4KyziGH_1aoL</string>
+</resources>
